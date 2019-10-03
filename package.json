@@ -1,0 +1,31 @@
+{
+  "name": "postal-country-region-data",
+  "version": "2.0.1",
+  "description": "List of countries, regions, and their shortcodes for postal purposes",
+  "main": "data.json",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "grunt validate",
+    "umdify": "grunt umdify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobias7an/postal-country-region-data.git"
+  },
+  "keywords": [
+    "country",
+    "region",
+    "data"
+  ],
+  "author": "Ben Keen / Tobias Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobias7an/postal-country-region-data/issues"
+  },
+  "homepage": "https://github.com/tobias7an/postal-country-region-data.git",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "libumd": "^0.7.0",
+    "underscore": "^1.8.3"
+  }
+}

@@ -17,6 +17,7 @@ This dataset, while being used in production as a data source, may be incomplete
 4. Regenerate `data.js` file using `npm run umdify`
 
 ### Changelog
+- `2.0.2` - Oct 3, 2019. Removal of territories with postal administration under different country names. Removal of accents and brackets in country names for greater compatbility with APIs.
 - `2.0.1` - Oct 2, 2019. Regions not used in postal addressing removed. Paypal state codes added per API documentation. Region address text strings added for relevant countries per UPU. US and French outlying territories that use respective domestic mail services removed from country list. Uninhabited regions removed from country list.     
 - `1.5.0` - Oct 1, 2019. Forked from [country-region-data](https://github.com/country-regions/country-region-data) v1.5.0    
 

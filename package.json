@@ -1,6 +1,6 @@
 {
   "name": "postal-country-region-data",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "List of countries, regions, and their shortcodes for postal purposes",
   "main": "data.json",
   "types": "./index.d.ts",

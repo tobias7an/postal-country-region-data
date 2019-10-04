@@ -21,7 +21,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Åland Islands",
+    "countryName": "Aland Islands",
     "countryShortCode": "AX",
     "regions": []
   },
@@ -510,7 +510,12 @@ return [
     "regions": []
   },
   {
-    "countryName": "Brunei Darussalam",
+    "countryName": "British Virgin Islands",
+    "countryShortCode": "VG",
+    "regions": []
+  },
+  {
+    "countryName": "Brunei",
     "countryShortCode": "BN",
     "regions": []
   },
@@ -644,6 +649,11 @@ return [
     "regions": []
   },
   {
+    "countryName": "Channel Islands",
+    "countryShortCode": "JE",
+    "regions": []
+  },
+  {
     "countryName": "Chile",
     "countryShortCode": "CL",
     "regions": [
@@ -730,7 +740,7 @@ return [
     ]
   },
   {
-    "countryName": "China (中国)",
+    "countryName": "China",
     "countryShortCode": "CN",
     "regions": [
       {
@@ -974,12 +984,12 @@ return [
     ]
   },
   {
-    "countryName": "Christmas Island (AU)",
+    "countryName": "Christmas Island",
     "countryShortCode": "CX",
     "regions": []
   },
   {
-    "countryName": "Cocos Islands (AU)",
+    "countryName": "Cocos Islands",
     "countryShortCode": "CC",
     "regions": []
   },
@@ -1195,7 +1205,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Curaçao",
+    "countryName": "Curacao",
     "countryShortCode": "CW",
     "regions": []
   },
@@ -1260,17 +1270,22 @@ return [
     "regions": []
   },
   {
+    "countryName": "Eswatini",
+    "countryShortCode": "SZ",
+    "regions": []
+  },
+  {
     "countryName": "Ethiopia",
     "countryShortCode": "ET",
     "regions": []
   },
   {
-    "countryName": "Falkland Islands (UK)",
+    "countryName": "Falkland Islands",
     "countryShortCode": "FK",
     "regions": []
   },
   {
-    "countryName": "Faroe Islands (DK)",
+    "countryName": "Faroe Islands",
     "countryShortCode": "FO",
     "regions": []
   },
@@ -1287,11 +1302,6 @@ return [
   {
     "countryName": "France",
     "countryShortCode": "FR",
-    "regions": []
-  },
-  {
-    "countryName": "French Guiana",
-    "countryShortCode": "GF",
     "regions": []
   },
   {
@@ -1380,17 +1390,12 @@ return [
     "regions": []
   },
   {
-    "countryName": "Vatican City",
-    "countryShortCode": "VA",
-    "regions": []
-  },
-  {
     "countryName": "Honduras",
     "countryShortCode": "HN",
     "regions": []
   },
   {
-    "countryName": "Hong Kong (China)",
+    "countryName": "Hong Kong",
     "countryShortCode": "HK",
     "regions": []
   },
@@ -2952,11 +2957,6 @@ return [
     ]
   },
   {
-    "countryName": "Jersey (Channel Islands, UK)",
-    "countryShortCode": "JE",
-    "regions": []
-  },
-  {
     "countryName": "Jordan",
     "countryShortCode": "JO",
     "regions": []
@@ -2977,7 +2977,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "South Korea",
+    "countryName": "Republic of Korea",
     "countryShortCode": "KR",
     "regions": []
   },
@@ -3032,7 +3032,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Macao (China)",
+    "countryName": "Macao",
     "countryShortCode": "MO",
     "regions": []
   },
@@ -3148,11 +3148,6 @@ return [
     "regions": []
   },
   {
-    "countryName": "Martinique",
-    "countryShortCode": "MQ",
-    "regions": []
-  },
-  {
     "countryName": "Mauritania",
     "countryShortCode": "MR",
     "regions": []
@@ -3160,11 +3155,6 @@ return [
   {
     "countryName": "Mauritius",
     "countryShortCode": "MU",
-    "regions": []
-  },
-  {
-    "countryName": "Mayotte (FR)",
-    "countryShortCode": "YT",
     "regions": []
   },
   {
@@ -3386,7 +3376,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Montserrat (UK)",
+    "countryName": "Montserrat",
     "countryShortCode": "MS",
     "regions": []
   },
@@ -3423,11 +3413,6 @@ return [
   {
     "countryName": "Netherlands",
     "countryShortCode": "NL",
-    "regions": []
-  },
-  {
-    "countryName": "New Caledonia (FR)",
-    "countryShortCode": "NC",
     "regions": []
   },
   {
@@ -3637,13 +3622,8 @@ return [
     ]
   },
   {
-    "countryName": "Niue (NZ)",
+    "countryName": "Niue",
     "countryShortCode": "NU",
-    "regions": []
-  },
-  {
-    "countryName": "Norfolk Island (AU)",
-    "countryShortCode": "NF",
     "regions": []
   },
   {
@@ -3667,7 +3647,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Palestine, State of",
+    "countryName": "Palestine",
     "countryShortCode": "PS",
     "regions": []
   },
@@ -3833,11 +3813,6 @@ return [
     "regions": []
   },
   {
-    "countryName": "Puerto Rico",
-    "countryShortCode": "PR",
-    "regions": []
-  },
-  {
     "countryName": "Qatar",
     "countryShortCode": "QA",
     "regions": []
@@ -3858,7 +3833,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Saint Helena Islands (UK)",
+    "countryName": "Saint Helena Islands",
     "countryShortCode": "SH",
     "regions": []
   },
@@ -4044,7 +4019,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "South Georgia Islands (UK)",
+    "countryName": "South Georgia Islands",
     "countryShortCode": "GS",
     "regions": []
   },
@@ -4384,11 +4359,6 @@ return [
         "addressText": "Wanica"
       }
     ]
-  },
-  {
-    "countryName": "Eswatini (Swaziland)",
-    "countryShortCode": "SZ",
-    "regions": []
   },
   {
     "countryName": "Sweden",
@@ -5623,7 +5593,7 @@ return [
     "regions": []
   },
   {
-    "countryName": "Turks and Caicos Islands (UK)",
+    "countryName": "Turks and Caicos Islands",
     "countryShortCode": "TC",
     "regions": []
   },
@@ -6187,6 +6157,11 @@ return [
     "regions": []
   },
   {
+    "countryName": "Vatican",
+    "countryShortCode": "VA",
+    "regions": []
+  },
+  {
     "countryName": "Venezuela",
     "countryShortCode": "VE",
     "regions": [
@@ -6557,11 +6532,6 @@ return [
         "addressText": "Yen Bai"
       }
     ]
-  },
-  {
-    "countryName": "Virgin Islands, British",
-    "countryShortCode": "VG",
-    "regions": []
   },
   {
     "countryName": "Yemen",

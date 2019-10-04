@@ -1,7 +1,7 @@
 {
   "name": "postal-country-region-data",
   "version": "2.0.2",
-  "description": "List of countries, regions, and their shortcodes for postal purposes",
+  "description": "Dataset of countries and regions for postal/shipping addressing applications",
   "main": "data.json",
   "types": "./index.d.ts",
   "scripts": {
@@ -12,12 +12,7 @@
     "type": "git",
     "url": "https://github.com/tobias7an/postal-country-region-data.git"
   },
-  "keywords": [
-    "country",
-    "region",
-    "data"
-  ],
-  "author": "Ben Keen / Tobias Tan",
+  "author": "Tobias Tan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tobias7an/postal-country-region-data/issues"

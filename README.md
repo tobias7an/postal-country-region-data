@@ -1,14 +1,14 @@
 # postal-country-region-data
 
-Fork of [country-region-data](https://github.com/country-regions/country-region-data) focusing on postal addressing state/country data for shipping applications.
+Fork of [country-region-data](https://github.com/country-regions/country-region-data) by Ben Keen. This fork focuses on state/country data for postal/shipping addresses.
  
-This dataset is a modified subset of the original forked repo omitting region information not used in addressing, and using postal abbreviations instead of ISO codes where divergent. 
+This dataset is heavily modified fromo the original repo. It omits region information not used in addressing, and adds text and codes for use in addresses and APIs. 
 
-Data is specifically being used in drop-down forms and validation functions targetting submission to shipping and payment APIs.
+Data is specifically structured for use in drop-down forms and validation functions targetting submission to shipping and payment APIs.
 
-Data is cross-referenced between [ISO3166-2](https://en.wikipedia.org/wiki/ISO_3166-2), [Frank's Compulsive Guide to Postal Addresses](http://www.columbia.edu/~fdc/postal/), the [Universal Postal Union Postal Addressing Systems Database](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html), and [Paypal Developer Documentation - State & Province Codes](https://developer.paypal.com/docs/api/reference/state-codes/#usa).
+Data is cross-referenced between [ISO3166-2](https://en.wikipedia.org/wiki/ISO_3166-2), [Frank's Compulsive Guide to Postal Addresses](http://www.columbia.edu/~fdc/postal/), the [Universal Postal Union Postal Addressing Systems Database](http://www.upu.int/en/activities/addressing/postal-addressing-systems-in-member-countries.html), and [Paypal Developer Documentation - State & Province Codes](https://developer.paypal.com/docs/api/reference/state-codes).
 
-This dataset, while being used in production as a data source, may be incomplete and will be updated as new information emerges.
+This dataset may not be 100% accurate, complete or up to date, but aims to be sufficiently complete for production use and preferable to available alternatives.  
 
 ### Editing
 1. Install with `npm install`

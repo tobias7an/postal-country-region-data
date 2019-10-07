@@ -1190,11 +1190,6 @@ return [
     "regions": []
   },
   {
-    "countryName": "Ivory Coast",
-    "countryShortCode": "CI",
-    "regions": []
-  },
-  {
     "countryName": "Croatia",
     "countryShortCode": "HR",
     "regions": []
@@ -2664,6 +2659,11 @@ return [
     ]
   },
   {
+    "countryName": "Ivory Coast",
+    "countryShortCode": "CI",
+    "regions": []
+  },
+  {
     "countryName": "Jamaica",
     "countryShortCode": "JM",
     "regions": []
@@ -3024,6 +3024,11 @@ return [
   {
     "countryName": "Liechtenstein",
     "countryShortCode": "LI",
+    "regions": []
+  },
+  {
+    "countryName": "Lithuania",
+    "countryShortCode": "LT",
     "regions": []
   },
   {
@@ -4689,7 +4694,7 @@ return [
         "addressText": "Ang Thong"
       },
       {
-        "name": "Bangkok (Krung Thep Mahanakhon)",
+        "name": "Bangkok",
         "shortCode": "10",
         "paypalCode": "Bangkok",
         "addressText": "Bangkok"

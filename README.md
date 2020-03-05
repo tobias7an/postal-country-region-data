@@ -17,6 +17,7 @@ This dataset may not be 100% accurate, complete or up to date, but aims to be su
 4. Regenerate `data.js` file using `npm run umdify`
 
 ### Changelog
+- `2.0.6` - Mar 5, 2020. Updated handlebars dev dependency.
 - `2.0.5` - Mar 5, 2020. Changed US Minor Outlying Islands to being a US region per UPU.
 - `2.0.4` - Oct 7, 2019. Add lithuania, rearrange ivory coast.
 - `2.0.2` - Oct 3, 2019. Removal of territories with postal administration under different country names. Removal of accents and brackets in country names for greater compatbility with APIs.

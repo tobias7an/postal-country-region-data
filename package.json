@@ -1,6 +1,6 @@
 {
   "name": "postal-country-region-data",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Dataset of countries and regions for postal/shipping addressing applications",
   "main": "data.json",
   "types": "./index.d.ts",

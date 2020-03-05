@@ -6138,13 +6138,14 @@ return [
         "shortCode": "VI",
         "paypalCode": "VI",
         "addressText": "VI"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "shortCode": "UM",
+        "paypalCode": "UM",
+        "addressText": "UM"
       }
     ]
-  },
-  {
-    "countryName": "U.S. Minor Outlying Islands",
-    "countryShortCode": "UM",
-    "regions": []
   },
   {
     "countryName": "Uruguay",

@@ -3797,6 +3797,11 @@
         "addressText": "Pasco"
       },
       {
+        "name": "Pitcairn Islands",
+        "shortCode": "PN",
+        "addressText": "PN"
+      },
+      {
         "name": "Piura",
         "shortCode": "PIU",
         "addressText": "Piura"
@@ -5792,14 +5797,7 @@
   {
     "countryName": "United Kingdom",
     "countryShortCode": "GB",
-    "regions": [
-      {
-        "name": "Pitcairn Islands",
-        "shortCode": "PN",
-        "paypalCode": "PN",
-        "addressText": "PN"
-      }
-    ]
+    "regions": []
   },
   {
     "countryName": "United States",

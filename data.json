@@ -214,6 +214,12 @@
         "addressText": "NSW"
       },
       {
+        "name": "Norfolk Island",
+        "shortCode": "NF",
+        "paypalCode": "NF",
+        "addressText": "NF"
+      },
+      {
         "name": "Northern Territory",
         "shortCode": "NT",
         "addressText": "NT"
@@ -1281,6 +1287,30 @@
   {
     "countryName": "France",
     "countryShortCode": "FR",
+    "regions": [
+      {
+        "name": "Martinique",
+        "shortCode": "MQ",
+        "paypalCode": "MQ",
+        "addressText": "MQ"
+      },
+      {
+        "name": "New Caledonia",
+        "shortCode": "NC",
+        "paypalCode": "NC",
+        "addressText": "NC"
+      },
+      {
+        "name": "Reunion",
+        "shortCode": "RE",
+        "paypalCode": "RE",
+        "addressText": "RE"
+      }
+    ]
+  },
+  {
+    "countryName": "French Guiana",
+    "countryShortCode": "GF",
     "regions": []
   },
   {
@@ -3405,6 +3435,11 @@
     "regions": []
   },
   {
+    "countryName": "Netherlands Antilles",
+    "countryShortCode": "AN",
+    "regions": []
+  },
+  {
     "countryName": "New Zealand",
     "countryShortCode": "NZ",
     "regions": []
@@ -3623,7 +3658,14 @@
   {
     "countryName": "Norway",
     "countryShortCode": "NO",
-    "regions": []
+    "regions": [
+      {
+        "name": "Svalbard and Jan Mayen",
+        "shortCode": "SJ",
+        "paypalCode": "SJ",
+        "addressText": "SJ"
+      }
+    ]
   },
   {
     "countryName": "Oman",
@@ -3834,6 +3876,11 @@
   {
     "countryName": "Saint Lucia",
     "countryShortCode": "LC",
+    "regions": []
+  },
+  {
+    "countryName": "Saint Pierre and Miquelon",
+    "countryShortCode": "PM",
     "regions": []
   },
   {
@@ -5745,7 +5792,14 @@
   {
     "countryName": "United Kingdom",
     "countryShortCode": "GB",
-    "regions": []
+    "regions": [
+      {
+        "name": "Pitcairn Islands",
+        "shortCode": "PN",
+        "paypalCode": "PN",
+        "addressText": "PN"
+      }
+    ]
   },
   {
     "countryName": "United States",
@@ -5979,6 +6033,7 @@
         "paypalCode": "OR",
         "addressText": "OR"
       },
+
       {
         "name": "Pennsylvania",
         "shortCode": "PA",
@@ -6122,14 +6177,13 @@
         "shortCode": "VI",
         "paypalCode": "VI",
         "addressText": "VI"
-      },
-      {
-        "name": "U.S. Minor Outlying Islands",
-        "shortCode": "UM",
-        "paypalCode": "UM",
-        "addressText": "UM"
       }
     ]
+  },
+  {
+    "countryName": "U.S. Minor Outlying Islands",
+    "countryShortCode": "UM",
+    "regions": []
   },
   {
     "countryName": "Uruguay",
@@ -6522,6 +6576,11 @@
         "addressText": "Yen Bai"
       }
     ]
+  },
+  {
+    "countryName": "Wallis and Futuna Islands",
+    "countryShortCode": "WF",
+    "regions": []
   },
   {
     "countryName": "Yemen",
